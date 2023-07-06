@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Guims04
-- 👀 I’m interested in developing website programs and in the future I want to be an artificial intelligence developer
-- 🌱 I’m currently learning html, css, JQuery, JavaScript and php
-- 💞️ I’m looking to collaborate on webesite programs 
-- 📫 How to reach me: E-mail: gem.epifanio@gmail.com
+- 👋 Hi, I’m @Guims04 (João Guilherme Sales).
+- 👀 I'm always eager to expand my knowledge, and here I aim to share all of my projects.
+- 🌱 Currently, I'm focused on learning Front-end and Back-end frameworks such as Angular, React, Vue, Sequelize, and Prisma.
+- 🏫 I'm studying at Universidade de Fortaleza.
+- 💞️ I'm open to collaborating on system development projects.
+- 📫 How to reach me: Visit my portfolio at https://jguilhermese-card.netlify.app.
 
 <!---
 Guims04/Guims04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
